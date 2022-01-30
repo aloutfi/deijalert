@@ -9,7 +9,7 @@ logger = logging.getLogger('DeijAlert')
 LOCAL_IP = config('LOCAL_IP')
 
 def deijalert():
-    """Set the nanoleaf wall on the local network to red for 10  """
+    """Set the nanoleaf wall on the local network to pulse red for 10 seconds."""
     nl = Nanoleaf(LOCAL_IP)
     is_on = nl.get_power()
     current_effect = nl.get_current_effect()
