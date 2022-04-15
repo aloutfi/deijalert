@@ -2,7 +2,7 @@ certifi==2021.10.8
 charset-normalizer==2.0.12
 idna==3.3
 nanoleafapi==2.1.1
-python-decouple==3.5
+python-decouple==3.6
 requests==2.27.1
 six==1.16.0
 sseclient==0.0.27
