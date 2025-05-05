@@ -1,5 +1,5 @@
 certifi==2025.4.26
-charset-normalizer==3.4.1
+charset-normalizer==3.4.2
 idna==3.10
 nanoleafapi==2.1.2
 python-decouple==3.8
