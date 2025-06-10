@@ -3,7 +3,7 @@ charset-normalizer==3.4.2
 idna==3.10
 nanoleafapi==2.1.2
 python-decouple==3.8
-requests==2.32.3
+requests==2.32.4
 six==1.17.0
 sseclient==0.0.27
 urllib3==2.4.0
